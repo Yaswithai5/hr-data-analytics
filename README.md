@@ -78,6 +78,8 @@ DIVIDE(
 
 Average Age =
 AVERAGE('HR Data'[Age])
+```
+
 ## Project Structure
 
 ```text
@@ -93,6 +95,7 @@ HR_Data_Analytics/
 │   └── dashboard.png
 │
 └── README.md
+```
 ## How to Use
 
 Download the repository and open the `.pbix` file using Power BI Desktop.
