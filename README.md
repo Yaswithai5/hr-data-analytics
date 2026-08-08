@@ -12,7 +12,7 @@ The dashboard focuses on understanding employee attrition across departments, jo
 - Power Query
 - DAX
 - Microsoft Excel
-## What I Analyzed
+## What I Analysed
 
 The dashboard covers:
 
