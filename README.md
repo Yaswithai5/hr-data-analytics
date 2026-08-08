@@ -84,7 +84,7 @@ AVERAGE('HR Data'[Age])
 ## Project Structure
 
 ```text
-HR_Data_Analytics/
+hr-data-analytics/
 │
 ├── dashboard/
 │   └── HR_Analytics.pbix
@@ -92,8 +92,8 @@ HR_Data_Analytics/
 ├── dataset/
 │   └── HR_Analytics_dataset.csv
 │
-├── Images/
-│   └── dashboard.png
+├── images/
+│   └── Dashboard.png
 │
 └── README.md
 ```
