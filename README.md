@@ -6,6 +6,7 @@ The dashboard focuses on understanding employee attrition across departments, jo
 ## Dashboard
 
 ![HR Analytics Dashboard](images/dashboard.png)
+
 ## Tools Used
 
 - Power BI
