@@ -5,7 +5,7 @@ This project is a Power BI dashboard created to analyse employee attrition and w
 The dashboard focuses on understanding employee attrition across departments, job roles, age groups, salary slabs, overtime status, and job levels. Power Query was used for data preparation and DAX was used to create the required measures and KPIs.
 ## Dashboard
 
-![HR Analytics Dashboard](Images/HR_Analytics.png)
+![HR Analytics Dashboard](Images/dashboard.png)
 ## Tools Used
 
 - Power BI
@@ -85,10 +85,10 @@ AVERAGE('HR Data'[Age])
 ```text
 HR_Data_Analytics/
 │
-├── Dashboard/
-│   └── HR_Analytics_Dashboard.pbix
+├── dashboard/
+│   └── HR_Analytics.pbix
 │
-├── Dataset/
+├── dataset/
 │   └── HR_Analytics_dataset.csv
 │
 ├── Images/
@@ -98,7 +98,7 @@ HR_Data_Analytics/
 ```
 ## How to Use
 
-Download the repository and open the `.pbix` file using Power BI Desktop.
+Download the repository and open the `HR_Analytics.pbix` file from the `dashboard` folder using Power BI Desktop.
 
 Use the slicers on the dashboard to filter the employee data by department, job role, gender, and overtime status.
 ## Dataset
