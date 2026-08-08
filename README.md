@@ -5,7 +5,7 @@ This project is a Power BI dashboard created to analyse employee attrition and w
 The dashboard focuses on understanding employee attrition across departments, job roles, age groups, salary slabs, overtime status, and job levels. Power Query was used for data preparation and DAX was used to create the required measures and KPIs.
 ## Dashboard
 
-![HR Analytics Dashboard](images/dashboard.png)
+![HR Analytics Dashboard](images/Dashboard.png)
 
 ## Tools Used
 
