@@ -56,7 +56,7 @@ Some of the main observations from the dashboard are:
 - Laboratory Technicians have the highest attrition among the job roles.
 - Employees in the 6-10 LPA salary slab have the highest attrition.
 - Job Level 1 has the highest attrition.
-- Employees who work overtime show higher attrition than employees who do not work overtime.
+- Employees who do not work overtime account for a slightly higher share of total attrition than employees who work overtime.
 ## DAX Measures
 
 Some of the measures used in the dashboard include:
